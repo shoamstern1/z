@@ -1,6 +1,5 @@
 <html lang="he" dir="rtl"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<title>אנגלית בפאן</title>
 <link href="https://fonts.googleapis.com/css2?family=Rubik:wght@400;600;800&display=swap" rel="stylesheet">
 <style>
 :root{--bg:#eef4ff;--card:#fff;--ink:#17214a;--mut:#5a6486;--line:#d5def5;--y:#ffb800;--c:#ff6b5b;--g:#16a174;--b:#3d5afe;--okbg:#d9f6ea;--nobg:#ffe1dd;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
